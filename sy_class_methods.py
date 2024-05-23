@@ -93,22 +93,20 @@ del coin1     # calling destructor
 # through the object's methods)
 
 
+# The term "encapsulation" comes from the idea of "capsulating" or "wrapping" the data (attributes)
+# and the code (methods) that operate on the data into a single unit, which we call an object.
+# This bundling of data and methods into a single unit is the core idea of encapsulation.
+
+# To sum up, encapsulation in OOP in Python is called so because it encapsulates or wraps the data
+# and methods into a single unit, promotes data hiding, maintains object integrity, enhances modularity
+# (creating self-contained objects. Each object can be developed, tested, and maintained independently
+# of other objects) and improves code maintainability and reusability.
+
+# Data hiding - restricting access to the internal state of an object, ensuring that data cannot be directly
+# accessed or modified from outside the object.
+# Modularity refers to the design principle of breaking down a software system into separate,
+# self-contained units or modules, each responsible for a specific aspect of the system’s functionality.
+# Modularity is often achieved through classes, functions, and packages that encapsulate specific
+# functionality or components of a system.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
