@@ -69,27 +69,6 @@ y.statement()
 y.withdraw(500)
 y.statement()
 y.withdraw(1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                  
-        
-            
-
         
         
         
